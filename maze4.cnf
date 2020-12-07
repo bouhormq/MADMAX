@@ -1,0 +1,62 @@
+mad_max_2020   	  v1
+secgame            ?
+seed               ?
+nb_players    	   4
+nb_rnds       	 300
+nb_rows       	  15
+nb_uni_cols   	  60
+nb_win_cols   	  31
+nb_cars_x_player   2
+nb_rnds_regen 	  30
+nb_miss_bonuses   28
+nb_gas_bonuses    12
+nb_water_bonuses 129
+bonus_miss         5
+bonus_gas         30
+water_pnts        10
+kill_pnts         30
+init_gas          60
+names             ? ? ? ?
+
+rnd 0
+
+   000000000011111111112222222222333333333344444444445555555555
+   012345678901234567890123456789012345678901234567890123456789
+00 .............X..........XX......W.....W......W....X.........
+01 ......WWWWXWWGWWXWWWW.WWWW.XW..............XWWW...XWG.....XX
+02 ......WX.....W...WXXW.WX.W.X.....XXX......GWWXWWW.XWW.......
+03 ....X.WWWW.X.W.X.WXXW.GWWW............M....XWWW...XX.....XX.
+04 ........XW.X.W.X.WWWW.WXW....M...M...........W....X.........
+05 ......WGWW...W...W..W.W..W....M..MM...M...................XX
+06 ........X......X.....X....X......MM...X..M........XWGW...XX.
+07 .......XXX...MMXMM........X...X..MM..M..M.X.......XWXW......
+08 ....X..........X..........X......MM...X..M........XWGW...XX.
+09 ........W...W.WWWW.WWWW.......M..MM...M...................XX
+10 ........W.X.W.WXXW.WX.G......M...M...........W....X.........
+11 ........W.W.W.WXXW.WWWW...............M....XWWW...XX.....XX.
+12 ....X...WXWXWXWWWW.WXW.....X.....XXX......GWWXWWW.XWW.......
+13 .........G.W..G..W.W..W....XW..............XWWW...XWG.....XX
+14 ...............XXXX.....XX......W.....W......W....X.........
+
+cars
+cid     row     column  nb_miss gas alive   time
+0	00	00	3	 60 y	0
+1	08	00	3	 60 y	0
+2	02	00	3	 60 y	0 
+3	10	00	3	 60 y	0
+4	04	00	3	 60 y	0 
+5	12	00	3	 60 y	0
+6	06	00	3	 60 y	0
+7	14	00	3	 60 y	0
+
+
+missiles
+0
+mid      cid	row     column
+
+players
+pid	score	status
+0	0	0
+1	0	0
+2	0	0
+3	0	0
