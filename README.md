@@ -211,6 +211,6 @@ it. This way you still will not have the source code of our Dummy, but you will
 be able to add it as a player and compete against it locally.
 
 To add the Dummy player to the list of registered players, you will have to
-edit theMakefilefile and set the variableDUMMYOBJto the appropriate value.
+edit theMakefilefile and set the variable DUMMYOBJ to the appropriate value.
 Remember that object files contain binary instructions targeting a specific ma-
 chine, so we cannot provide a single, generic file.
