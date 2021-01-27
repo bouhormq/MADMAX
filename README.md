@@ -1,4 +1,4 @@
-![Figure 1](https://github.com/bouhormq/MADMAX/blob/main/mad-max-banner.png)
+![Figure 1](https://github.com/bouhormq/MADMAX/blob/main/mad-max-banner.jpg)
 
 ## 1 Game rules
 
