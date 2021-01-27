@@ -1,3 +1,5 @@
+![Figure 1](https://github.com/bouhormq/MADMAX/blob/main/mad-max-banner.png)
+
 ## 1 Game rules
 
 This is a game for four players. Each player commands a group of cars in the
